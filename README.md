@@ -16,9 +16,9 @@ A calculator project built with React.
 
 ## Installation
 
-1. `git clone https://github.com/shaikat17/calculator.git`
+1. `git clone https://github.com/shaikat17/calculator-react.git`
 
-2. `cd calculator`
+2. `cd calculator-react`
 
 3. `npm install`
 
