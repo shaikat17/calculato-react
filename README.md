@@ -2,7 +2,7 @@
 
 A calculator project built with React.
 
-
+![React Calculator](/calculator.png "React Calculator Project")
 
 ## Features
 
